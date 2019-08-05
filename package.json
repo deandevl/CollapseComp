@@ -1,0 +1,20 @@
+{
+  "name": "collapsecomp",
+  "version": "1.0.0",
+  "description": "A simple Vue.js (>= 2.5) web component to open/close content. ",
+  "main": "CollapseComp.vue",
+  "repository": "git+https://github.com/deandevl/CollapseComp.git",
+  "keywords": [
+    "Vue.js",
+    "CollapseComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/CollapseComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/CollapseComp#readme",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
